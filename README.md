@@ -27,4 +27,4 @@ I'm a passionate developer dedicated to building efficient, scalable, and user-c
 
 ---
 
-📫 **Let's Connect:** [Your LinkedIn Link] | [Your Email]
+📫 **Let's Connect:** www.linkedin.com/in/rotem-mustacchi-9a0666104 | rotem.mustacchi@gmail.com
