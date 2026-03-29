@@ -13,9 +13,10 @@ I'm a passionate developer dedicated to building efficient, scalable, and user-c
 ### 🛠️ Tech Stack & Tools
 
 - **Languages:** C#, Python, JavaScript, HTML/CSS
-- **Frontend:** React
 - **Backend:** Node.js, .NET
-- **Other:** n8n Automation, SQL
+- **Frontend:** React
+- **Databases:** SQL
+- **DevOps&Tools:** Docker, Git, n8n Automation
 
 ---
 
